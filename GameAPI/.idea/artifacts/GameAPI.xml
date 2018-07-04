@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="GameAPI">
-    <output-path>$USER_HOME$/Desktop/</output-path>
-    <root id="archive" name="GameAPI.jar" />
-  </artifact>
-</component>
