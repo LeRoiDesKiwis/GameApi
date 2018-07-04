@@ -1,1 +1,1 @@
-# GameAPI
+# GameApi
